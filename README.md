@@ -1,1 +1,2 @@
-# Recomendation-system
+#Book Recommendation System: TF-IDF vs. Word2Vec
+This repository contains a comparative analysis of TF-IDF and Word2Vec methods for book recommendations. The project preprocesses book descriptions, generates recommendations using TF-IDF (keyword-based matching) and Word2Vec (semantic similarity), and evaluates their effectiveness using cosine similarity. Visualizations include cosine similarity score comparisons and t-SNE projections of word embeddings. The results show that TF-IDF excels in exact keyword matching, while Word2Vec provides better semantic understanding. Future improvements include hybrid recommendation approaches and FastText integration.
